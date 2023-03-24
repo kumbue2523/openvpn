@@ -1,11 +1,19 @@
 {
+"Version":"1.3",
+ "Url":"https://github.com/kumbue2523/openvpn/raw/master/update.zip",
+ "Text":"อัพเดท วันที่ 21 มีนาคม 2566
 
+เพิ่มไฟล์ TH 
+
+รองรับการใช้งานซิม ทรู ดีแทค
+
+กด ตกลง เพื่อทำการ อัพเดท"}
 
 "Version":"5.0.1",
 
 
 
-"Url":"https://github.com/kumbue2523/openvpn/raw/master/update.zip" ,
+"Url":"" ,
 
 "Changelog":"SG , USA , Canada , UK , India",
 
