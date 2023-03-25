@@ -1,21 +1,19 @@
 {
-"Version":"1.0",
- "Url":"https://github.com/kumbue2523/openvpn/raw/master/update.zip",
- "Text":"อัพเดท วันที่ 24 มีนาคม 2566
 
-เพิ่มไฟล์ TH 
 
-รองรับการใช้งานซิม ทรู ดีแทค
-
-กด ตกลง เพื่อทำการ อัพเดท",
+"Version":"1.15",
 
 
 
+"Url":"https://github.com/kumbue2523/openvpn/raw/master/update.zip" ,
+
+"Changelog":"
 
 
 
+ 
 
-
+",
 
  
 
@@ -44,4 +42,3 @@
   ]
 
 }
-{ "Version":"1.2", "Url":"https://ksavwqjxzi6ki2zyp8gmea-on.drv.tw/config/SVL1.zip", "Changelog":"", "latestVersion": "1.1.17", "latestVersionCode": "75", "url": "https://github.com/kumbue2523/openvpn/raw/master/detail_update.json", "releaseNotes": [ "-Demo" ] }
